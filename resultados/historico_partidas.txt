@@ -1,0 +1,4 @@
+Jogador X: gabriel
+Jogador O: Alice
+Resultado: X venceu
+------------------------------
