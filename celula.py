@@ -4,7 +4,7 @@
 # Essa classe ajuda a verificar se a jogada é válida e guardar o símbolo jogado.
 class Celula:
     def __init__(self):
-        self.simbolo = ' '  # Pode ser 'X', 'O' ou espaço em branco
+        self.simbolo = ' '
 
     def __str__(self):
         return self.simbolo
