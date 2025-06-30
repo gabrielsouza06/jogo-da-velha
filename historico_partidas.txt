@@ -1,0 +1,16 @@
+Jogador X: g
+Jogador O: o
+Resultado: X venceu!
+------------------------------
+Jogador X: a
+Jogador O: b
+Resultado: a venceu!
+------------------------------
+Jogador X: Jogador X
+Jogador O: Jogador O
+Resultado: Jogador X venceu!
+------------------------------
+Jogador X: g
+Jogador O: b
+Resultado: g venceu!
+------------------------------
