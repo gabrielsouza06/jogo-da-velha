@@ -14,3 +14,15 @@ Jogador X: g
 Jogador O: b
 Resultado: g venceu!
 ------------------------------
+Jogador X: g
+Jogador O: a
+Resultado: g venceu!
+------------------------------
+Jogador X: g
+Jogador O: a
+Resultado: g venceu!
+------------------------------
+Jogador X: g
+Jogador O: f
+Resultado: g venceu!
+------------------------------
