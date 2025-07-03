@@ -26,3 +26,39 @@ Jogador X: g
 Jogador O: f
 Resultado: g venceu!
 ------------------------------
+Jogador X: g
+Jogador O: a
+Resultado: Empate!
+------------------------------
+Jogador X: Jogador X
+Jogador O: Jogador O
+Resultado: Jogador X venceu!
+------------------------------
+Jogador X: g
+Jogador O: o
+Resultado: g venceu!
+------------------------------
+Jogador X: mileni
+Jogador O: Computador
+Resultado: mileni venceu!
+------------------------------
+Jogador X: Jogador X
+Jogador O: Jogador O
+Resultado: Jogador X venceu!
+------------------------------
+Jogador X: g
+Jogador O: Computador
+Resultado: g venceu!
+------------------------------
+Jogador X: g
+Jogador O: Computador
+Resultado: Empate!
+------------------------------
+Jogador X: g
+Jogador O: a
+Resultado: g venceu!
+------------------------------
+Jogador X: a
+Jogador O: g
+Resultado: a venceu!
+------------------------------
